@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1de68b89-289e-49bb-8454-6503e2f0410b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="34VnN7yBB7C6iLZh6BI0GNDsRYa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for test.test_exercise1_sort.TestCaseSortCourses.executor": "Run",
+    "Python tests.Python tests for test.test_exercise1_sort.TestCaseSortCourses.test_exercise1_sort.executor": "Run",
+    "Python tests.Python tests for test.test_exercise1_sort_courses.TestCaseSortCourses.test_sort_courses.executor": "Run",
+    "Python tests.Python tests for test.test_exercise2_selection.Evaluate.executor": "Run",
+    "Python tests.Python tests for test.test_exercise2_selection.Evaluate.test_exercise2_selection.executor": "Run",
+    "Python tests.Python tests for test.test_exercise3_for_loop.Evaluate.executor": "Run",
+    "Python tests.Python tests for test.test_exercise4_review_courses.Evaluate.executor": "Run",
+    "Python tests.Python tests for test.test_exercise4_review_courses.Evaluate.test_review_courses.executor": "Debug",
+    "Python tests.Python tests for test.test_exercise4_while_loop.Evaluate.test_while_loop.executor": "Run",
+    "Python tests.Python tests for test.test_exercise5_validate_courses.Evaluate.executor": "Run",
+    "Python tests.Python tests for test.test_exercise5_validate_courses.Evaluate.test_select_courses.executor": "Run",
+    "Python tests.Python tests for test.test_exercise6_course_budget.Evaluate.executor": "Run",
+    "Python tests.Python tests for test.test_exercise7_course_location.Evaluate.executor": "Run",
+    "Python tests.Python tests for test.test_exercise7_course_location.Evaluate.test_is_course_in_location.executor": "Run",
+    "Python tests.Python tests in 1 Sort Exercise.executor": "Run",
+    "Python tests.Python tests in 1_sort_exercise_test.py.executor": "Run",
+    "Python tests.Python tests in sort_exercise_test.py.executor": "Run",
+    "Python tests.Python tests in sortexercise_test.py.executor": "Run",
+    "Python tests.Python tests in test.executor": "Run",
+    "Python tests.Python tests in test_exercise2_select_course.py.executor": "Run",
+    "Python tests.Python tests in test_exercise3_for_loop.py.executor": "Run",
+    "Python tests.Python tests in test_exercise3_max_students.py.executor": "Run",
+    "Python tests.Python tests in test_exercise4_review_courses.py.executor": "Run",
+    "Python tests.Python tests in test_exercise4_while_loop.py.executor": "Run",
+    "Python tests.Python tests in test_exercise5_validate_courses.py.executor": "Run",
+    "Python tests.Python tests in test_exercise6_course_budget.py.executor": "Run",
+    "Python tests.Python tests in test_sortexercise.py.executor": "Run",
+    "Python.exercise3_for_loop_solution.executor": "Run",
+    "Python.exercise4_review_courses_solution.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.test_exercise1_sort_courses.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/user/PycharmProjects/DigitalSkillsCodeExercises",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\PycharmProjects\PythonProject\src" />
+      <recent name="C:\Users\user\PycharmProjects\PythonProject\test" />
+      <recent name="C:\Users\user\PycharmProjects\PythonProject\solutions" />
+      <recent name="C:\Users\user\PycharmProjects\PythonProject" />
+      <recent name="C:\Users\user\PycharmProjects\PythonProject\1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for test.test_exercise7_course_location.Evaluate.test_is_course_in_location">
+    <configuration name="exercise4_review_courses_solution" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DigitalSkillsCodeExercises" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solutions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solutions/exercise4_review_courses_solution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test.test_exercise4_review_courses.Evaluate" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="DigitalSkillsCodeExercises" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.test_exercise4_review_courses.Evaluate&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test.test_exercise7_course_location.Evaluate.test_is_course_in_location" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="DigitalSkillsCodeExercises" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.test_exercise7_course_location.Evaluate.test_is_course_in_location&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_exercise5_validate_courses.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="DigitalSkillsCodeExercises" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/test_exercise5_validate_courses.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_exercise6_course_budget.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="DigitalSkillsCodeExercises" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/test_exercise6_course_budget.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test.test_exercise7_course_location.Evaluate.test_is_course_in_location" />
+        <item itemvalue="Python tests.Python tests in test_exercise6_course_budget.py" />
+        <item itemvalue="Python tests.Python tests in test_exercise5_validate_courses.py" />
+        <item itemvalue="Python tests.Python tests for test.test_exercise4_review_courses.Evaluate" />
+        <item itemvalue="Python.exercise4_review_courses_solution" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-PY-252.27397.106" />
+        <option value="bundled-python-sdk-4e2b1448bda8-9a97661f3031-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.27397.106" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1de68b89-289e-49bb-8454-6503e2f0410b" name="Changes" comment="" />
+      <created>1761307572855</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761307572855</updated>
+      <workItem from="1761307759659" duration="14037000" />
+      <workItem from="1761333366262" duration="2223000" />
+      <workItem from="1761385119787" duration="27000" />
+      <workItem from="1761385190869" duration="549000" />
+      <workItem from="1761385928796" duration="907000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial project commit.">
+      <option name="closed" value="true" />
+      <created>1761386701409</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1761386701409</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial project commit.">
+      <option name="closed" value="true" />
+      <created>1761386772523</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1761386772523</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial project commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial project commit." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonProject$main.coverage" NAME="main Coverage Results" MODIFIED="1761309385141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$exercise3_for_loop_solution.coverage" NAME="exercise3_for_loop_solution Coverage Results" MODIFIED="1761314577383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/solutions" />
+    <SUITE FILE_PATH="coverage/DigitalSkillsCodeExercises$exercise4_review_courses_solution.coverage" NAME="exercise4_review_courses_solution Coverage Results" MODIFIED="1761386313843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/solutions" />
+    <SUITE FILE_PATH="coverage/DigitalSkillsCodeExercises$.coverage" NAME=" Coverage Results" MODIFIED="1761386499691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$.coverage" NAME=" Coverage Results" MODIFIED="1761334949648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
